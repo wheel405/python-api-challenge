@@ -1,6 +1,6 @@
 #Weather Trends:
-#1. Latitude and Temperature: Maximum temperatures are highest in cities found between latitudes -20 and 20.
+#1. Latitude and Temperature: Maximum temperatures were highest in cities found between latitudes -20 and 20.
 
 #2. Latitude and Wind Speeds: In almost all latitudes, cities' wind speeds were less than 15 mph. 
 
-#3 Latitude and Humidity. Cities near latitude 0 tended to have higher levels of humidity on the day this data was pulled.
+#3. Latitude and Humidity: Cities near latitude 0 tended to have higher levels of humidity compared to cities at other latitudes on the day this data was pulled.
